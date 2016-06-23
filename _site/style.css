@@ -894,3 +894,10 @@ body {
 @media (min-width: 1200px) {
 .navbar-right{float:right}}
 
+
+@media (max-width: 768px)
+header .intro-text {
+    padding-top: 210px;
+}
+}
+
