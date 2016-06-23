@@ -1,0 +1,14 @@
+---
+title: Aktivitetskoll
+subtitle: Apputveckling och UX Design
+layout: default
+modal-id: 3
+date: 2016-03-15
+img: aktivitetskoll-thumbnail.png
+thumbnail: aktivitetskoll-thumbnail.png
+alt: image-alt
+project-date: Mars 2016
+client: Eget projekt/  Hack 4 Sweden
+category: Apputveckling
+description: Med aktiviteskoll vill vi hjälpa sveriges befolkning att komma ut i naturen och röra på sig. Vi vill främja aktivitet som redan finns i våra städer. Appen motiverar användaren och ger tips på daglig fysisk aktivetet. Aktivitetskoll utvecklades som tävlingsbidrag till Hack 4 Sweden. <iframe width="560" height="315" src="https://www.youtube.com/embed/1Q8Fpgu_kzM" frameborder="0" allowfullscreen></iframe>
+---

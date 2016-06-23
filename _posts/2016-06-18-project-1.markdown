@@ -1,0 +1,15 @@
+---
+title: Deelicious Webshop
+subtitle: Webbdesign & konceptframtagning
+layout: default
+modal-id: 1
+date: 2016-06-18
+img: deelicious.png
+thumbnail: deelicious-thumbnail.png
+alt: deelicious koncept
+project-date: Juni 2016
+client: Deelicious.se
+category: webbdesign
+description: Vi arbetar på ny design för deelicious.se. Webbshopen behöver ett nytt utseende och bättre responsivitet. Den nya layouten kommer att användas från och med hösten 2016.
+
+---
