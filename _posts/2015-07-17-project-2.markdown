@@ -1,0 +1,14 @@
+---
+title: Location Based Weatherapp
+subtitle: Application design & development
+layout: default
+modal-id: 2
+date: 2015-07-17
+img: weatherapp.png
+thumbnail: weatherapp-thumbnail.png
+alt: image-alt
+project-date: September 2015
+client: Eget projekt
+category: Apputveckling
+description: Per ville testa sina kunskaper i Swift. Tillsammans med GPS och Unsplash.com genereras bilder som passsar "humöret" för det aktuella vädret där du är. 
+---

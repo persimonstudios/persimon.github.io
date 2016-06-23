@@ -13,7 +13,6 @@
 
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 
-
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -894,4 +893,11 @@ body {
 }
 @media (min-width: 1200px) {
 .navbar-right{float:right}}
+
+
+@media (max-width: 768px){
+header .intro-text {
+    padding-top: 210px;
+}
+}
 
